@@ -1,0 +1,35 @@
+audience:
+  - breaker
+  - builder
+leaders:
+  - name: Anil Yelken
+level: 2
+name: OWASP Vulnerable Flask App
+pitch: A very brief, one-line description of your project
+repositories:
+  - name: www-project-vulnerable-flask-app
+    url: https://github.com/OWASP/www-project-vulnerable-flask-app
+    description: OWASP Foundation Web Repository
+tags:
+  - vulnerable
+  - vulnerable-flask-app
+  - vulnerable-web-app
+  - vulnerable-flask
+  - vulnerable-web
+  - rest
+  - vulnerable-rest-api
+  - sqli
+  - xss
+  - ssti
+  - deserialization
+  - dos
+  - file-upload
+  - cyber-security
+  - owasp-top-10
+  - owasp
+  - html-injection
+  - information-disclosure
+  - command-injection
+  - Broken-Authentication
+type: documentation
+website: https://owasp.org/www-project-vulnerable-flask-app
